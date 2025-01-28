@@ -67,3 +67,13 @@ footer {
     color: #E0E0E0;
     margin-top: 2rem;
 }
+/* Estilo dos links */
+a {
+    color: #0606d5; /* Cor dos links */
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+/* Cor do link ao passar o mouse */
+a:hover {
+    color: #0606d5; /* Cor ao passar o mouse */
+}
